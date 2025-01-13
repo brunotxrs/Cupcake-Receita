@@ -1,35 +1,70 @@
-<h1 align="center"><strong>Pagina de Receita</strong></h1>
+# 🧁 Cupcake de Café com Chantilly
 
+Bem-vindo ao projeto **Cupcake de Café com Chantilly**! Este projeto foi desenvolvido durante o curso **Formação Full-Stack** da [Rocketseat](https://rocketseat.com.br). Ele apresenta uma página responsiva feita no formato **mobile-first**, que detalha uma receita deliciosa de cupcakes com café e chantilly.
 
-<p align="center">
-  <img alt="Projeto Página de Receita" src="./assets/receita.png" width="100%">
-</p>
+## 🌟 Visão Geral
 
-## 🚀 Tecnologias
+Este projeto é uma página de receita totalmente estilizada, focada em oferecer uma experiência agradável e intuitiva para o usuário, com um design limpo e elegante. A abordagem **mobile-first** garante que o layout seja funcional em dispositivos móveis e escalável para telas maiores, como tablets e desktops.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Tecnologias Utilizadas
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) : Estrutura semântica do conteúdo.
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) : Estilização com foco em design responsivo.
+- ``Mobile-First``: Construção da interface priorizando dispositivos móveis.
+- ``Media Queries``: Adaptabilidade para diferentes tamanhos de tela.
+- ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=google-fonts&logoColor=white) : Fontes estilizadas para melhorar a estética do projeto.
+## 📄 Funcionalidades
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Design Responsivo**: Adaptado para diferentes dispositivos (mobile, tablet e desktop).
+- **Conteúdo Semântico**: Estrutura clara e de fácil leitura.
+- **Seções**:
+  - **Sobre**: Uma introdução à receita.
+  - **Ingredientes**: Lista detalhada de itens necessários.
+  - **Modo de Preparo**: Instruções claras para fazer o cupcake.
 
-- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+## 📸 Prévia do Projeto
 
-- ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+<img src="./src/img/img-receita.gif" alt="Prévia do projeto">
 
+### 🌐 [Acesse o Projeto Online](https://brunotxrs.github.io/projeto-receitas-full-stak/)
 
-## 💻 Projeto
+## 🛠️ Estrutura de Arquivos
+ ```bash
+Cupcake-Receita/
+├── src/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── reset-and-global.css
+│   │   ├── main.css
+│   │   └── footer.css
+│   ├── favicon/
+│   │   └── favicon.ico
+│   └── img/
+│       ├── bg-image.jpg
+│       ├── img-receita.gif
+│       └── main-image.jpg
+├── index.html
+├── LICENSE
+└── README.md
+```
 
-O projeto é uma página de receita online.
+## 🎨 Design Responsivo
 
-- Acesse o projeto finalizado, [online](https://brunotxrs.github.io/projeto-receitas-full-stak/)
+O layout do projeto foi planejado para se adaptar a diferentes resoluções de tela, utilizando **media queries** para oferecer uma experiência fluida:
 
-## 🔖 Layout
+- **Mobile (até 667px)**: Interface compacta e funcional.
+- **Tablet (668px a 1024px)**: Ajustes no tamanho de fontes e espaçamento.
+- **Desktop (acima de 1024px)**: Aproveitamento completo do espaço em telas grandes.
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1360315130061454535). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+## 📚 Referência de Estudos
 
+Este projeto foi desenvolvido durante a formação **Full-Stack** da [Rocketseat](https://rocketseat.com.br). O curso oferece uma base sólida para o desenvolvimento web, abordando conceitos modernos de frontend e boas práticas no mercado.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Made with ♥ by Bruno Teixeira :wave: [siga!](https://www.instagram.com/bruno_txrs/)
+💻 **Desenvolvido com ♥ por [Bruno Teixeira](https://github.com/brunotxrs).**  
+Sinta-se à vontade para contribuir ou deixar sugestões! 😊
