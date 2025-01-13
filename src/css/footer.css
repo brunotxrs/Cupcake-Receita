@@ -1,0 +1,24 @@
+footer {
+    padding: 5px;
+    background-color: var(--bg);
+    color: var(--color);
+    text-align: center;
+    font-size: .8em;
+
+    & a {
+        text-decoration: none;
+        color: var(--color);
+    }
+
+    & a:hover {
+        text-decoration: underline;
+    }
+
+}
+
+@media screen and (min-width: 667px) {
+    footer {
+        padding: 10px;
+        font-size: 1em;
+    }
+}
