@@ -26,7 +26,7 @@ Este projeto é uma página de receita totalmente estilizada, focada em oferecer
 
 <img src="./src/img/img-receita.gif" alt="Prévia do projeto">
 
-### 🌐 [Acesse o Projeto Online](https://brunotxrs.github.io/projeto-receitas-full-stak/)
+### 🌐 [Acesse o Projeto Online](https://brunotxrs.github.io/Cupcake-Receita/)
 
 ## 🛠️ Estrutura de Arquivos
  ```bash
